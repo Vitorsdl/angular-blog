@@ -1,0 +1,10 @@
+.sub-emphasis {
+    width: 450px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+
+h3 {
+    margin-left: 20px;
+}

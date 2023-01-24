@@ -1,0 +1,15 @@
+.emphasis {
+    width: 150px;
+    margin-right: 100px;
+}
+
+.emphasis>h3 {
+    margin-top: 10px;
+    color: black;
+    font-size: medium;
+}
+
+.emphasis>p {
+    color: gray;
+    margin-top: 10px;
+}
